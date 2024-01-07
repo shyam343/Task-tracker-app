@@ -1,5 +1,13 @@
 # CodeSoft React Internship Project-Work.
 ![intern-offer-letter](https://github.com/shyam343/my-profile/assets/84222697/07437d01-3e77-49eb-8f07-2a67e2b9db51)
+
+# Project Name :- Task Tracker Application
+### Description: Build a simple task tracker application for managing to-do items.Steps are:
++ Create the task tracker app using React and state management.
+- Design a user-friendly interface to add, update, and delete tasks.
+* Implement a feature to mark tasks as complete or incomplete.
++ Style the application with CSS to enhance the user experience.
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
